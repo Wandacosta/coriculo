@@ -1,2 +1,2 @@
-# coriculo
+# currículo
 trabalho Pwd
