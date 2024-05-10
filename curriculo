@@ -1,0 +1,22 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>Curriculo</title>
+    </head>
+    <body>
+        <section name="Wanda">
+            <h1>costa de jesus</h1>
+            <p>Brasileiro, Solteiro, 18 anos,</p>
+            <p><strong>Email:</strong>costadejesuswanda@gmail.com</p>
+            <p><strong>Contato:</strong>(27)998592361</p>
+            <p><strong>Endereço:</strong>Pinheiro</p>
+        </section>
+        <section name="objetivo">
+            <h2>Objetivo</h2>
+            <ul>
+                <li>Estudante.</li>
+                <li>Ser uma boa aluna.</li>
+            </ul>
+        </section>
+    </body>
+</html>
